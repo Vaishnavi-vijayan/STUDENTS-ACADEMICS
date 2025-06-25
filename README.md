@@ -1,0 +1,2 @@
+# STUDENTS-ACADEMICS
+Basic SQL project
