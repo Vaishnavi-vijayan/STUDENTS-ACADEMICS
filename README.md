@@ -1,2 +1,2 @@
 # STUDENTS-ACADEMICS
-Basic SQL project
+Basic SQL project.The objective of this SQL project is to design, populate, and query a comprehensive student database that reflects the academic and technical profiles of Computer Science students. This project focuses on storing and retrieving structured data regarding students’ academic performance (GPA), their domain interests, hands-on projects, future career goals, and proficiency levels in core programming languages.
